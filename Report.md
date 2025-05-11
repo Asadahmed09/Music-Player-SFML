@@ -72,8 +72,8 @@ Supported Features:
 
 - **Asad Ahmed:** Backend logic, playback integration using SFML, file handling
 - **Lucky:** Playlist logic, navigation functions, file persistence
-- **Yashraj:** GUI design with SFML elements
-- **Shahnawaz Khuwaja:** GUI implementation and event testing using SFML
+- **Yashraj:** logical functions with SFML
+- **Shahnawaz Khuwaja:** Backend logic,GUI implementation and event testing using SFML
 
 ## 5\. Project Implementation
 
