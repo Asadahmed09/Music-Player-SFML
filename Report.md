@@ -86,7 +86,7 @@ Supported Features:
 
 ### Core Functionalities Developed
 
-- Music playback with sf::Music (supports .wav)
+- Music playback with sf::Music 
 - Add/remove songs to “MyFavourite” playlist
 - Save/load playlists using file handling
 - Navigation through playlist with next/previous
@@ -96,7 +96,7 @@ Supported Features:
 
 - &lt;SFML/Audio.hpp&gt;
 - &lt;SFML/Graphics.hpp&gt;
-- &lt;fstream&gt;, &lt;iostream&gt;, &lt;vector&gt; , &lt;memory&gt; , &lt;functional&gt; , &lt;filesystem&gt; , &lt;sstream&gt;
+- &lt;fstream&gt;, &lt;iostream&gt;, &lt;vector&gt; , &lt;memory&gt; , &lt;functional&gt; , &lt;sstream&gt;
 
 **Challenges Faced:**
 
