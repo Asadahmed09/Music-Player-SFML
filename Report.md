@@ -115,12 +115,6 @@ Supported Features:
 - Persistent playlist feature that loads/saves accurately
 - Extendable design with modular structure
 
-### Screenshots & Illustrations: _(To be added)_
-
-- GUI interface layout
-- Playlist file preview
-- Console interface view
-
 ### Testing and Validation
 
 - Manually tested all playback features
